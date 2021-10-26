@@ -31,5 +31,5 @@ app.post("/api", function(req, res) {
     test:200
   })
 });
-  
-app.listen('https://flutter-zalo-khmt.herokuapp.com/')
+var port = normalizePort(process.env.PORT || '3000');
+app.listen(port)
