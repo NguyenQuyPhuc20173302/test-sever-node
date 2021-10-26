@@ -1,0 +1,20 @@
+{
+  "name": "test-sever-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenQuyPhuc20173302/test-sever-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenQuyPhuc20173302/test-sever-node/issues"
+  },
+  "homepage": "https://github.com/NguyenQuyPhuc20173302/test-sever-node#readme"
+}
